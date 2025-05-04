@@ -1,5 +1,7 @@
 # InsightPDF System
 
+look at project documentation from here : https://deepwiki.com/Tarek-Saad/InsightPDF-system
+
 A comprehensive PDF processing system that includes OCR, summarization, formatting, and merging capabilities.
 
 ## Project Structure

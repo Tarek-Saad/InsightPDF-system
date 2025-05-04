@@ -1,0 +1,19 @@
+{
+    "ocr": {
+        "tesseract_config": "--psm 3",
+        "language": "eng"
+    },
+    "summarizer": {
+        "max_length": 130,
+        "min_length": 30,
+        "model_name": "facebook/bart-large-cnn"
+    },
+    "formatter": {
+        "paragraph_spacing": 2,
+        "line_spacing": 1.5
+    },
+    "paths": {
+        "tmp_directory": "processor-python/tmp",
+        "prompts_directory": "shared/prompts"
+    }
+}

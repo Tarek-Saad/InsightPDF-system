@@ -1,0 +1,10 @@
+Please provide a concise summary of the following text while maintaining the key points and main ideas. Focus on:
+- Main arguments or findings
+- Key supporting evidence
+- Important conclusions
+- Significant relationships between concepts
+
+Avoid including:
+- Minor details
+- Redundant information
+- Examples unless crucial to understanding
